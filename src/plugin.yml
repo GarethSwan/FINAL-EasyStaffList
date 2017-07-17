@@ -1,0 +1,7 @@
+name: EasyStaffList
+version: 1.0
+main: dev.Swan.Bukkit.EasyStaffList.Main
+author: Gareth Swan
+commands:
+  staff:
+    description: View the Server Staff!
